@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0x2808
 - 👀 I’m interested in Sport, PC
-- 🌱 I’m currently learning C++, C#
+- 🌱 I’m currently learning Python
 - 📫 How to reach me Discord: 0x2808#3055
 
 <!---
